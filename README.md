@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73957024/170297509-57ff0eb2-2eae-4656-9e53-b50e88e8f232.jpeg" height="350" width="450" />
+</p>
+
 # SimplyInterior Android App 📱
 This repository contains the Application that my team has developed in Appathon conducted by ADG VIT.
 
